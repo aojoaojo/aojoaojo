@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aojoaojo
 - 👀 I’m interested in: all about computer, environment, health and science!
-- 🌱 I’m currently studing computer science.
+- 🌱 I’m currently studing computer science and environmental science.
 - 📫 How to reach me: www.linkedin.com/in/aojoaojo
 
 <!---
